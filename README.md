@@ -12,19 +12,19 @@ The main focus of the report is to evaluate:
 
 And determine which model is most suitable for developing a mid-sized pharmacy management system.
 
-Repository Contents
-1.final ise.pdf – Complete assignment report
-2.README.md – Explanation of repository structure and branching strategy
+Repository Contents:
+1. final ise.pdf – Complete assignment report
+2. README.md – Explanation of repository structure and branching strategy
 
-Branching and Merging Strategy
+Branching and Merging Strategy:
 This repository follows a simple branching strategy to simulate real-world software development practices.
 
 Branches Used:
-1.main-
+1. main-
 Contains the final approved version of the report.
 Stable and ready for submission.
 
-2.dev-
+2. dev-
 Used to make edits and improvements to the document before final approval.
 Changes were tested and reviewed in this branch.
 
@@ -38,7 +38,7 @@ Workflow Followed
 
 This ensured that the main branch always remained clean and stable.
 
-Purpose of Using Branching:
+Purpose of Using Branching: 
 The branching strategy was used to:
 1. Prevent direct modification of the final document
 2. Maintain clear history of changes
